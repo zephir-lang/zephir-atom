@@ -2,7 +2,7 @@
   "name": "zephir",
   "version": "0.0.0",
   "description": "Zephir syntax for Atom",
-  "repository": "https://github.com/atom/zephir",
+  "repository": "https://github.com/phalcon/zephir-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
