@@ -1,0 +1,12 @@
+{
+  "name": "zephir",
+  "version": "0.0.0",
+  "description": "Zephir syntax for Atom",
+  "repository": "https://github.com/atom/zephir",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
