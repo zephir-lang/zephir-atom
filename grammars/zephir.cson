@@ -220,7 +220,7 @@
     'name': 'storage.modifier.js'
   }
   {
-    'match': '\\b(echo|require|break|case|catch|let|continue|default|do|else|for|goto|if|return|switch|throw|try|while|loop)\\b'
+    'match': '\\b(echo|require|break|case|catch|let|continue|default|do|else|elseif|for|goto|if|return|switch|throw|try|while|loop)\\b'
     'name': 'keyword.control.js'
   }
   {
