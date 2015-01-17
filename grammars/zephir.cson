@@ -212,7 +212,7 @@
     'name': 'comment.line.double-slash.js'
   }
   {
-    'match': '\\b(boolean|string|char|class|namespace|use|as|get|__toString|set|abstract|double|float|function|int|interface|long|var|void|ulong|uint|uchar|unsigned|self)\\b'
+    'match': '\\b(boolean|string|char|class|trait|namespace|use|as|get|__toString|set|abstract|double|float|function|int|interface|long|var|void|ulong|uint|uchar|unsigned|self)\\b'
     'name': 'storage.type.js'
   }
   {
