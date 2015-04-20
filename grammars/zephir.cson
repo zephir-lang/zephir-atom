@@ -151,7 +151,7 @@
     'name': 'constant.numeric.js'
   }
   {
-    'match': '<([a-zA-Z0-9\\_\\\\]+)>'
+    'match': '<([a-zA-Z0-9\\_\\\\]+\!)>'
     'name': 'string.regexp.js'
   }
   {
