@@ -151,7 +151,7 @@
     'name': 'constant.numeric.js'
   }
   {
-    'match': '<([a-zA-Z0-9\\_\\\\]+\!)>'
+    'match': '<([a-zA-Z0-9\\_\\\\\\!]+)>'
     'name': 'string.regexp.js'
   }
   {
@@ -216,11 +216,11 @@
     'name': 'storage.type.js'
   }
   {
-    'match': '\\b(const|fetch|empty|likely|unlikely|isset|unset|extends|final|implements|private|protected|public|static|scoped|inline|throws|clone)\\b'
+    'match': '\\b(const|fetch|empty|likely|unlikely|isset|unset|extends|final|implements|private|protected|public|internal|static|scoped|inline|throws|clone)\\b'
     'name': 'storage.modifier.js'
   }
   {
-    'match': '\\b(echo|require|break|case|catch|let|continue|default|do|else|elseif|for|goto|if|return|switch|throw|try|while|loop)\\b'
+    'match': '\\b(echo|require|break|case|catch|let|continue|default|do|else|elseif|for|goto|if|return|switch|match|throw|try|while|loop)\\b'
     'name': 'keyword.control.js'
   }
   {
